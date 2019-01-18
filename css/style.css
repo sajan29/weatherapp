@@ -1,0 +1,30 @@
+body
+{
+  background-color:#89DCC1;
+  font-family:Serif;
+  font-size:200%;
+  color:white;
+}
+.container-fluid
+{
+  margin-top:20px;
+}
+table
+{
+  margin-top:-15px;
+}
+#temp
+{
+  margin-top:15px;
+}
+#weather
+{
+  margin-top:-15px;
+}
+#quote
+{
+  font-size:15px;
+  font-style:italic;
+}
+
+
